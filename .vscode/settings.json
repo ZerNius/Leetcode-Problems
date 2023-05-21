@@ -1,7 +1,10 @@
 {
     "files.associations": {
+        "*.ejs": "html",
         "type_traits": "cpp",
         "vector": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "xstring": "cpp",
+        "iostream": "cpp"
     }
 }
